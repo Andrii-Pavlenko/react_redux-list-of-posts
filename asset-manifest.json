@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Andrii-Pavlenko/react_redux-list-of-posts/build/static/css/main.cb9e985a.chunk.css",
+    "main.js": "/Andrii-Pavlenko/react_redux-list-of-posts/build/static/js/main.2d779fa1.chunk.js",
+    "main.js.map": "/Andrii-Pavlenko/react_redux-list-of-posts/build/static/js/main.2d779fa1.chunk.js.map",
+    "runtime~main.js": "/Andrii-Pavlenko/react_redux-list-of-posts/build/static/js/runtime~main.d1d2cc8c.js",
+    "runtime~main.js.map": "/Andrii-Pavlenko/react_redux-list-of-posts/build/static/js/runtime~main.d1d2cc8c.js.map",
+    "static/js/2.4ca5d0ff.chunk.js": "/Andrii-Pavlenko/react_redux-list-of-posts/build/static/js/2.4ca5d0ff.chunk.js",
+    "static/js/2.4ca5d0ff.chunk.js.map": "/Andrii-Pavlenko/react_redux-list-of-posts/build/static/js/2.4ca5d0ff.chunk.js.map",
+    "index.html": "/Andrii-Pavlenko/react_redux-list-of-posts/build/index.html",
+    "precache-manifest.4763c3573d6c8a551faa9e452b01c236.js": "/Andrii-Pavlenko/react_redux-list-of-posts/build/precache-manifest.4763c3573d6c8a551faa9e452b01c236.js",
+    "service-worker.js": "/Andrii-Pavlenko/react_redux-list-of-posts/build/service-worker.js",
+    "static/css/main.cb9e985a.chunk.css.map": "/Andrii-Pavlenko/react_redux-list-of-posts/build/static/css/main.cb9e985a.chunk.css.map"
+  }
+}
