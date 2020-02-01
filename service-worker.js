@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Andrii-Pavlenko/react_redux-list-of-posts/build/precache-manifest.4763c3573d6c8a551faa9e452b01c236.js"
+  "/Andrii-Pavlenko/react_redux-list-of-posts/precache-manifest.16d623b7df31e69651e7a98a46990ff1.js"
 );
 
 self.addEventListener('message', (event) => {
@@ -33,7 +33,7 @@ workbox.core.clientsClaim();
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/Andrii-Pavlenko/react_redux-list-of-posts/build/index.html"), {
+workbox.routing.registerNavigationRoute(workbox.precaching.getCacheKeyForURL("/Andrii-Pavlenko/react_redux-list-of-posts/index.html"), {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
